@@ -26,3 +26,4 @@ Exploratory data analysis and visualization of used car listings in the USA.
 - Random Forest was the best model for price imputation (MAE ≈ $1,583).
 - Newer cars have higher average prices, with a sharp drop after 2020 (few records).
 - Higher mileage consistently reduces price across the three brands analyzed.
+
